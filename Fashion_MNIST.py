@@ -1,6 +1,5 @@
 '''
 Classifying Fashion MNIST Data using a NN with dense layers vs a CNN
-Colab code: https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l03c01_classifying_images_of_clothing.ipynb#scrollTo=Gl91RPhdCaXI
 '''
 
 import logging
