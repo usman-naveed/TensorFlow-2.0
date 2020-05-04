@@ -1,6 +1,6 @@
 '''
-Following an intro tutorial from Colab:
-https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l02c01_celsius_to_fahrenheit.ipynb#scrollTo=YHI3vyhv5p85
+A simple tutorial showing how a single perceptron can be used to determine the co-efficients of the linear relationship between Celcius and Fahrenheit coversions. 
+
 '''
 
 import tensorflow as tf
